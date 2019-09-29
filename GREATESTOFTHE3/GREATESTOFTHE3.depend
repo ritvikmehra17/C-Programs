@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545977237 source:g:\c programs\greatestofthe3\main.c
+	<stdio.h>
+	<stdlib.h>
+
